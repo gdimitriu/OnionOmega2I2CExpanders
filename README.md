@@ -24,5 +24,5 @@ To compile the sources on cross-compiler or direct on device:
 
  - PCF8574 IO expander
  
- - [PCF8591 ADC expander](https://brainfyre.wordpress.com/2012/10/25/pcf8591-yl-40-ad-da-module-review/)
+ - [PCF8591 ADC expander](http://arduinolearning.com/code/arduino-pcf8591-example.php)
  
