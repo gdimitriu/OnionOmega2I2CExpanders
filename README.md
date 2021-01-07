@@ -1,6 +1,6 @@
 # OnionOmega2I2CExpanders
 
-## Evironment to compile
+## Environment to compile
  
 Compiler in makefiles is set to the cross-compiler.
 
@@ -24,4 +24,5 @@ To compile the sources on cross-compiler or direct on device:
 
  - PCF8574 IO expander
  
+ - [PCF8591 ADC expander](https://brainfyre.wordpress.com/2012/10/25/pcf8591-yl-40-ad-da-module-review/)
  
