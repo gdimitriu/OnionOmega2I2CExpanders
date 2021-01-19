@@ -1,5 +1,5 @@
 /*
- Calibrations with sg9 servo and Onion PWM expander
+ Calibrations with sg9 servo and Onion PWM expansion
  Copyright (C) 2021 Gabriel Dimitriu
  All rights reserved.
 

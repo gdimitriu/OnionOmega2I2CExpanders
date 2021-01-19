@@ -65,7 +65,7 @@ void CalibrationServoPWMExp::resetConfiguration() {
 }
 
 void CalibrationServoPWMExp::printMenu() {
-	printf("Calibration of servo using onion PWM extender\n");
+	printf("Calibration of servo using onion PWM expansion\n");
 	printf("\to - oscillator frequency [oxxx]\n");
 	printf("\ts - servo frequency [sxxx.xx]\n");
 	printf("\tl - rotate 90 degree left [l<xxx.xx>] where xxx.xx is the duty cycle\n");
