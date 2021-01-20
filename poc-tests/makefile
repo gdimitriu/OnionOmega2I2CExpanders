@@ -8,7 +8,7 @@ HEADERS=CalibrationServoPWMExp.h
 all: $(EXECUTABLES)
 
 CalibrationServoPWMExp.o:CalibrationServoPWMExp.cpp CalibrationServoPWMExp.h
-	$(CC) -fPIC -c CalibrationServoPWMExp.cpp CalibrationServoPWMExp.h $(INCLUDEPATHS)
+	$(CC) -fPIC -c CalibrationServoPWMExp.cpp $(INCLUDEPATHS)
 	
 CalibrationServoPWMExp:CalibrationServoPWMExp.o
 	$(CC) -o CalibrationServoPWMExp CalibrationServoPWMExp.o $(LIBS)
